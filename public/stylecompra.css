@@ -1,0 +1,98 @@
+.header-superior{
+  background-image: url("img/lineaSuperiorTelefono.png");
+  color: white;
+  padding-right: 10px;
+  text-align: right;
+  background-size: 100%;
+}
+
+.logo{
+  padding-top: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  align-content: center;
+}
+
+.menuItem{
+  cursor: pointer;
+}
+
+a{
+  color: white;
+  text-decoration: none;
+}
+
+.linea{
+  background-image: url("img/lineaSubrallado.png");
+  background-repeat: no-repeat;
+  font-size: x-small;
+  height: 5px;
+  margin-bottom: 5px;
+}
+
+.bienvenida{
+  font-variant: inherit;
+  text-align: right;
+  padding-bottom: 5%;
+  padding-top: 5%;
+  padding-right: 5%;
+  height: 50px;
+  color: crimson;
+}
+
+.menuLineaSuperio{
+  background-image: url("img/lineaMenuSuperior.png");
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+.menuLineaInferior{
+  background-image: url("img/lineaMenuInferior.png");
+  background-repeat: no-repeat;
+  height: 5px;
+  background-size: 100%;
+}
+
+.producto p{
+  color: black;
+}
+
+.formulario{
+  background-color: #ff0a76;
+  color: white;
+  padding-left: 20px;
+  padding-bottom: 20px;
+  padding-top: 20px;
+  padding-right: 20px;
+}
+
+.formulario h4{
+  font-size: medium;
+}
+
+.precio{
+  text-align: right;
+  font-size: 30px;
+}
+
+.hora{
+  font-size: 20px;
+}
+
+.estiloFooter{
+  background-image: url("img/fondoFooter.png");
+  background-size: 100%;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 5px;
+  padding-bottom: 10px;
+  color: white;
+  font-size: small;
+}
+
+a{
+  color: white;
+  text-decoration: none;
+}
+
